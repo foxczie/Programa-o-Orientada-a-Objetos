@@ -66,6 +66,3 @@ departamento.calcular_total_salarios()
 
                
         
-
-    
-
